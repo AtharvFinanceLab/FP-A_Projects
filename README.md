@@ -4,7 +4,7 @@ FP&A projects centered on budgeting, forecasting, Variance Analysis & Dashborad.
 
 **Projects Included:**
 
-Annual Budget Model: Created a financial budget for a full year projecting revenues, expenses, and profitability for key segments of a business.
+Annual Budget Model: Created a financial budget for a full year projecting revenues, COGS, OpEx, & EBITDA and profitability for key segments of a business.
 
 Forecasting and Scenario Analysis: Created financial forecasts and scenarios to analyze revenue growth changes of ±10-15% and cost changes.
 
