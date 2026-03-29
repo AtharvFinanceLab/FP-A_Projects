@@ -13,4 +13,5 @@ Variance Analysis: Analyzed budget vs. actuals to identify key financial varianc
 FP&A Dashboard: Created a financial dashboard to summarize key performance indicators, revenue growth, and key performance metrics.
 
 **Key Skills**:
+
 Financial Planning and Analysis | Budgeting | Forecasting | Variance Analysis | Financial Reporting | Excel Modeling
