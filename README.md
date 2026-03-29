@@ -10,8 +10,8 @@ Forecasting and Scenario Analysis: Created financial forecasts and scenarios to 
 
 Variance Analysis: Analyzed budget vs. actuals to identify key financial variances and performance drivers.
 
-FP&A Dashboard: Created a financial dashboard to summarize key performance indicators, revenue growth, and key performance metrics.
+FP&A Dashboard: Created a financial dashboard to summarize key performance indicators, revenue growth, and key performance metric
 
-**Key Skills**:
+**Key Skills:**
 
 Financial Planning and Analysis | Budgeting | Forecasting | Variance Analysis | Financial Reporting | Excel Modeling
