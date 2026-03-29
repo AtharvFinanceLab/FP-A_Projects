@@ -1,6 +1,6 @@
-FP&A Financial Analysis Projects
+**FP&A Financial Analysis Projects**
 
-FP&A projects centered on budgeting, forecasting, and financial analysis. These projects modeled corporate finance processes for business analysis.
+FP&A projects centered on budgeting, forecasting, Variance Analysis & Dashborad. These projects modeled corporate finance processes for business analysis.
 
 Projects Included:
 Annual Budget Model: Created a financial budget for a full year projecting revenues, expenses, and profitability for key segments of a business.
