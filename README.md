@@ -4,13 +4,13 @@ The FP&A financial analysis projects include budgeting, forecasting, and financi
 
 **Projects Included:**
 
-Annual Budget Model – Created an annual financial budget that projects revenue, expenses, and profitability for key business segments.
+Annual Budget Model: Created an annual financial budget that projects revenue, expenses, and profitability for key business segments.
 
-Forecasting & Scenario Analysis – Created financial forecasts and scenario models to analyze revenue growth changes of 10-15%.
+Forecasting & Scenario Analysis: Created financial forecasts and scenario models to analyze revenue growth changes of 10-15%.
 
-Variance Analysis – Performed budget vs. actuals analysis to identify key financial variances.
+Variance Analysis: Performed budget vs. actuals analysis to identify key financial variances.
 
-FP&A Dashboard – Created a financial dashboard that summarizes key performance indicators, revenue trends, and performance metrics.
+FP&A Dashboard: Created a financial dashboard that summarizes key performance indicators, revenue trends, and performance metrics.
 
 **Key Skills:**
 
